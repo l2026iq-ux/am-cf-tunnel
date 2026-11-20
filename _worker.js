@@ -1,7 +1,7 @@
 /**
 *- Telegram交流群：https://t.me/AM_CLUBS
 *- YouTube频道：https://youtube.com/@AM_CLUB
-*- VLESS订阅地址：https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655
+*- VLESS订阅地址：https://worker.amcloud.filegear-sg.me/a84644cc-e248-4e13-9118-b7e7bb6b6a16
 *- Github仓库地址：https://github.com/ansoncloud8
 **/
 // @ts-ignore
